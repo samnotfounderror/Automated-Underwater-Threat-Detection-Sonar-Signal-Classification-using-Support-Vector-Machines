@@ -1,4 +1,4 @@
-# Automated Underwater Threat Detection: Sonar Signal Classification using Support Vector Machines
+# Automated Underwater Threat Detection: Sonar Signal Classification using Machine Learning
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.3-orange)](https://scikit-learn.org/)
